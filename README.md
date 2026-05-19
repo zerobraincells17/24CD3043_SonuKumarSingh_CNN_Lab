@@ -1,4 +1,4 @@
-# CNN Lab Assignment
+# Convolutional Neural Network (CNN)
 
 This project implements a complete Convolutional Neural Network (CNN) pipeline using TensorFlow/Keras, covering model building, training, evaluation, and transfer learning on MNIST and CIFAR-10 datasets.
 
